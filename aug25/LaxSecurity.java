@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class LaxSecurity {
 	
 	public static void main(String[] args) {
+        
+        //THIS IS A CHANGE
 		
 		int totalValid = 0;
 		int totalTest = 0;
